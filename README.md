@@ -2,7 +2,7 @@
 
 a [minecraft](https://www.minecraft.net/) player(404E)
 
-## Bukkit插件
+## Bukkit 插件
 
 - [**Boom**](https://github.com/4o4E/Boom/)
 
