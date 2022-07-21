@@ -1,8 +1,8 @@
-### 4o4E
+## 4o4E
 
 404E, a minecraft player
 
-### Bukkit插件
+## Bukkit插件
 
 - [Boom](https://github.com/4o4E/Boom/)
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1150139-1-1.html)
@@ -11,7 +11,7 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/Boom)](https://github.com/4o4E/Boom/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/Boom">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/Boom.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/Boom.svg" alt="Bstats"/>
   </a>
   </div>
 
@@ -22,7 +22,7 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/EClean)](https://github.com/4o4E/EClean/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/EClean">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/EClean.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/EClean.svg" alt="Bstats"/>
   </a>
   </div>
 
@@ -33,7 +33,7 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/EBackupInv)](https://github.com/4o4E/EBackupInv/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/EBackupInv">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/EBackupInv.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/EBackupInv.svg" alt="Bstats"/>
   </a>
   </div>
 
@@ -44,7 +44,7 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/EScript)](https://github.com/4o4E/EScript/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/EScript">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/EScript.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/EScript.svg" alt="Bstats"/>
   </a>
   </div>
 
@@ -55,7 +55,7 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/ViewSlimeChunk)](https://github.com/4o4E/ViewSlimeChunk/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/ViewSlimeChunk">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/ViewSlimeChunk.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/ViewSlimeChunk.svg" alt="Bstats"/>
   </a>
   </div>
 
@@ -66,7 +66,7 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/DanceTree">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/DanceTree.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/DanceTree.svg" alt="Bstats"/>
   </a>
   </div>
 
@@ -77,17 +77,17 @@
   [![Release](https://img.shields.io/github/v/release/4o4E/EWarp)](https://github.com/4o4E/EWarp/releases)
   <div>
   <a href="https://bstats.org/plugin/bukkit/EWarp">
-  <img style="border-radius: 0.5em; width: 60%;" src="https://bstats.org/signatures/bukkit/EWarp.svg" alt="Bstats"/>
+  <img style="width: 80%;" src="https://bstats.org/signatures/bukkit/EWarp.svg" alt="Bstats"/>
   </a>
   </div>
 
 
-### 我的MC游戏id
+## 我的MC游戏id
 
 Minecraft Java Edition: `404E`
 Minecraft Bedrock Edition: `404E2068`
 
-### 统计信息
+## 统计信息
 
 ![4o4E's GitHub stats](https://github-readme-stats.vercel.app/api?username=4o4E&show_icons=true&count_private=true&theme=tokyonight)
 
