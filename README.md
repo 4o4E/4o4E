@@ -104,15 +104,21 @@
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
 
+## 熟悉的平台
+
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-ca/windows)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)](https://ubuntu.com/)
+
 ## 统计信息
 
 ![4o4E's GitHub stats](https://github-readme-stats.vercel.app/api?username=4o4E&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4o4E&layout=compact&theme=tokyonight)
+[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=4o4E&layout=compact&theme=tokyonight&#41;)
 
-![404E](https://github-readme-streak-stats.herokuapp.com/?user=4o4E)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4o4E&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=404E)
+[//]: # (![wakatime]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=404E&#41;)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E "WakaTime")
 
 
 
