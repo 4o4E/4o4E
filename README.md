@@ -5,53 +5,88 @@
 ### Bukkit插件
 
 - [Boom](https://github.com/4o4E/Boom/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1150139-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1150139-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/Boom)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/Boom/total)](https://github.com/4o4E/Boom/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/Boom)](https://github.com/4o4E/Boom/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/Boom.svg)](https://bstats.org/plugin/bukkit/Boom)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/Boom">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/Boom.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 - [EClean](https://github.com/4o4E/EClean/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1305548-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1305548-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EClean)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EClean/total)](https://github.com/4o4E/EClean/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EClean)](https://github.com/4o4E/EClean/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/EClean.svg)](https://bstats.org/plugin/bukkit/EClean)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/EClean">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/EClean.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 - [EBackupInv](https://github.com/4o4E/EBackupInv/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1321213-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1321213-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EBackupInv)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EBackupInv/total)](https://github.com/4o4E/EBackupInv/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EBackupInv)](https://github.com/4o4E/EBackupInv/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/EBackupInv.svg)](https://bstats.org/plugin/bukkit/EBackupInv)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/EBackupInv">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/EBackupInv.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 - [EScript](https://github.com/4o4E/EScript/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1335472-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1335472-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EScript)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EScript/total)](https://github.com/4o4E/EScript/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EScript)](https://github.com/4o4E/EScript/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/EScript.svg)](https://bstats.org/plugin/bukkit/EScript)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/EScript">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/EScript.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 - [ViewSlimeChunk](https://github.com/4o4E/ViewSlimeChunk/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1333162-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1333162-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/ViewSlimeChunk)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/ViewSlimeChunk/total)](https://github.com/4o4E/ViewSlimeChunk/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/ViewSlimeChunk)](https://github.com/4o4E/ViewSlimeChunk/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/ViewSlimeChunk.svg)](https://bstats.org/plugin/bukkit/ViewSlimeChunk)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/ViewSlimeChunk">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/ViewSlimeChunk.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 - [DanceTree](https://github.com/4o4E/DanceTree/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1325471-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1325471-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/DanceTree)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DanceTree/total)](https://github.com/4o4E/DanceTree/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/DanceTree.svg)](https://bstats.org/plugin/bukkit/DanceTree)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/DanceTree">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/DanceTree.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 - [EWarp](https://github.com/4o4E/EWarp/)
-  [![Mcbbs](https://github.com/4o4E/4o4E/blob/main/mcbbs.svg)](https://www.mcbbs.net/thread-1291646-1-1.html)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1291646-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EWarp)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EWarp/total)](https://github.com/4o4E/EWarp/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EWarp)](https://github.com/4o4E/EWarp/releases)
-  [![Bstats](https://bstats.org/signatures/bukkit/EWarp.svg)](https://bstats.org/plugin/bukkit/EWarp)
+  <center>
+  <a href="https://bstats.org/plugin/bukkit/EWarp">
+  <img style="border-radius: 0.5em; width: 60%;
+  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0" src="https://bstats.org/signatures/bukkit/EWarp.svg" alt="Bstats"/>
+  </a>
+  </center>
 
 
 ### 我的MC游戏id
