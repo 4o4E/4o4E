@@ -99,6 +99,7 @@
 
 - [**DarkMode**](https://github.com/4o4E/DarkMode/)
 
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1365041-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/DarkMode)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
