@@ -104,6 +104,10 @@
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
 
+## 常用的语言
+
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+
 ## 熟悉的平台
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-ca/windows)
