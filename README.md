@@ -1,6 +1,6 @@
 ## 4o4E
 
-404E, a minecraft player
+a minecraft player
 
 ## Bukkit插件
 
