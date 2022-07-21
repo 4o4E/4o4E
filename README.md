@@ -4,7 +4,8 @@
 
 ## Bukkit插件
 
-- [Boom](https://github.com/4o4E/Boom/)
+- [**Boom**](https://github.com/4o4E/Boom/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1150139-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/Boom)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/Boom/total)](https://github.com/4o4E/Boom/releases/latest)
@@ -15,7 +16,8 @@
   </a>
   </div>
 
-- [EClean](https://github.com/4o4E/EClean/)
+- [**EClean**](https://github.com/4o4E/EClean/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1305548-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EClean)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EClean/total)](https://github.com/4o4E/EClean/releases/latest)
@@ -26,7 +28,8 @@
   </a>
   </div>
 
-- [EBackupInv](https://github.com/4o4E/EBackupInv/)
+- [**EBackupInv**](https://github.com/4o4E/EBackupInv/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1321213-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EBackupInv)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EBackupInv/total)](https://github.com/4o4E/EBackupInv/releases/latest)
@@ -37,7 +40,8 @@
   </a>
   </div>
 
-- [EScript](https://github.com/4o4E/EScript/)
+- [**EScript**](https://github.com/4o4E/EScript/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1335472-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EScript)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EScript/total)](https://github.com/4o4E/EScript/releases/latest)
@@ -48,7 +52,8 @@
   </a>
   </div>
 
-- [ViewSlimeChunk](https://github.com/4o4E/ViewSlimeChunk/)
+- [**ViewSlimeChunk**](https://github.com/4o4E/ViewSlimeChunk/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1333162-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/ViewSlimeChunk)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/ViewSlimeChunk/total)](https://github.com/4o4E/ViewSlimeChunk/releases/latest)
@@ -59,7 +64,8 @@
   </a>
   </div>
 
-- [DanceTree](https://github.com/4o4E/DanceTree/)
+- [**DanceTree**](https://github.com/4o4E/DanceTree/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1325471-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/DanceTree)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DanceTree/total)](https://github.com/4o4E/DanceTree/releases/latest)
@@ -70,7 +76,8 @@
   </a>
   </div>
 
-- [EWarp](https://github.com/4o4E/EWarp/)
+- [**EWarp**](https://github.com/4o4E/EWarp/)
+
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1291646-1-1.html)
   ![Stars](https://img.shields.io/github/stars/4o4E/EWarp)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EWarp/total)](https://github.com/4o4E/EWarp/releases/latest)
@@ -81,11 +88,20 @@
   </a>
   </div>
 
+## Minecraft 材质
 
-## 我的MC游戏id
+- [**DynamicGlowOre**](https://github.com/4o4E/DynamicGlowOre/)
 
-Minecraft Java Edition: `404E`
-Minecraft Bedrock Edition: `404E2068`
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1204050-1-1.html)
+  ![Stars](https://img.shields.io/github/stars/4o4E/DynamicGlowOre)
+  [![Downloads](https://img.shields.io/github/downloads/4o4E/DynamicGlowOre/total)](https://github.com/4o4E/DynamicGlowOre/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/4o4E/DynamicGlowOre)](https://github.com/4o4E/DynamicGlowOre/releases)
+
+- [**DarkMode**](https://github.com/4o4E/DarkMode/)
+
+  ![Stars](https://img.shields.io/github/stars/4o4E/DarkMode)
+  [![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
 
 ## 统计信息
 
