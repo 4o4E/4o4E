@@ -110,7 +110,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 
 ## 熟悉的平台
 
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/en-ca/windows)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/windows)
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)](https://ubuntu.com/)
 
 ## 统计信息
