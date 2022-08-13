@@ -4,6 +4,9 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 
 ## Bukkit 插件
 
+<details>
+  <summary>点击查看详细</summary>
+
 - [**Boom**](https://github.com/4o4E/Boom/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1150139-1-1.html)
@@ -88,7 +91,12 @@ a [minecraft](https://www.minecraft.net/) player(404E)
   </a>
   </div>
 
+</details>
+
 ## Minecraft 材质
+
+<details>
+  <summary>点击查看详细</summary>
 
 - [**DynamicGlowOre**](https://github.com/4o4E/DynamicGlowOre/)
 
@@ -103,6 +111,8 @@ a [minecraft](https://www.minecraft.net/) player(404E)
   ![Stars](https://img.shields.io/github/stars/4o4E/DarkMode)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
+
+</details>
 
 ## 常用的语言
 
