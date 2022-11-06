@@ -1,4 +1,4 @@
-<img align="right" src="https://mc-heads.net/head/404E" alt="404E">
+<img style="float: right" src="https://mc-heads.net/head/404E" alt="404E">
 ## 4o4E
 
 [Minecraft](https://www.minecraft.net/) 玩家(ID: 404E)
