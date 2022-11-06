@@ -116,12 +116,23 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 
 ## 常用的语言
 
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+
+## 常用的IDE和工具
+
+[![IDEA](https://img.shields.io/badge/IDE-IDEA-blue?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
+[![CLion](https://img.shields.io/badge/IDE-CLion-blue?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
+[![Visual Studio Code](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/-Git-blue?logo=git&logoColor=fff)](https://git-scm.com/)
 
 ## 熟悉的平台
 
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://www.microsoft.com/zh-cn/windows)
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=fff)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+[![Linux](https://img.shields.io/badge/-Linux-blue?logo=Linux&logoColor=fff)](https://ubuntu.com/)
 
 ## 统计信息
 
