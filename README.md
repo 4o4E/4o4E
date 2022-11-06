@@ -1,11 +1,11 @@
 ## 4o4E
 
-a [minecraft](https://www.minecraft.net/) player(404E)
+[Minecraft](https://www.minecraft.net/) 玩家(ID: 404E)
 
-## Bukkit 插件
+### Bukkit 插件
 
 <details>
-  <summary>点击查看详细</summary>
+  <summary>点击查看</summary>
 
 - [**Boom**](https://github.com/4o4E/Boom/)
 
@@ -96,7 +96,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 ## Minecraft 材质
 
 <details>
-  <summary>点击查看详细</summary>
+  <summary>点击查看</summary>
 
 - [**DynamicGlowOre**](https://github.com/4o4E/DynamicGlowOre/)
 
@@ -114,27 +114,33 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 
 </details>
 
-## 常用的语言
+### 常用的语言
 
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 
-## 常用的IDE和工具
+### 常用的IDE和工具
 
-[![IDEA](https://img.shields.io/badge/IDE-IDEA-blue?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
-[![CLion](https://img.shields.io/badge/IDE-CLion-blue?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
-[![Visual Studio Code](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/-Git-blue?logo=git&logoColor=fff)](https://git-scm.com/)
+[![IDEA](https://img.shields.io/badge/-IDEA-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
+[![CLion](https://img.shields.io/badge/-CLion-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff)](https://git-scm.com/)
+[![XShell](https://img.shields.io/badge/-XShell-black?logoColor=fff)](https://www.xshell.com/xshell/)
+[![XFTP](https://img.shields.io/badge/-XFTP-black?logoColor=fff)](https://www.xshell.com/xftp/)
 
-## 熟悉的平台
+### 熟悉的平台
 
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
-[![Linux](https://img.shields.io/badge/-Linux-blue?logo=Linux&logoColor=fff)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
+[![Centos](https://img.shields.io/badge/-Centos-black?logo=Centos&logoColor=fff)](https://centos.org/)
 
-## 统计信息
+### 统计信息
+
+<details>
+  <summary>点击查看详细</summary>
 
 ![4o4E's GitHub stats](https://github-readme-stats.vercel.app/api?username=4o4E&show_icons=true&count_private=true&theme=tokyonight)
 
@@ -145,5 +151,4 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 [//]: # (![wakatime]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=404E&#41;)
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E "WakaTime")
 
-
-
+</details>
