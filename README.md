@@ -1,6 +1,10 @@
 ## 4o4E
 
+![404E](https://mc-heads.net/head/404E)
+
 [Minecraft](https://www.minecraft.net/) 玩家(ID: 404E)
+
+时区: UTC+8
 
 ### Bukkit 插件
 
@@ -127,6 +131,7 @@
 [![IDEA](https://img.shields.io/badge/-IDEA-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
 [![CLion](https://img.shields.io/badge/-CLion-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Gradle](https://img.shields.io/badge/-Gradle-black?logo=gradle&logoColor=fff)](https://gradle.org/)
 [![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff)](https://git-scm.com/)
 [![XShell](https://img.shields.io/badge/-XShell-black?logoColor=fff)](https://www.xshell.com/xshell/)
 [![XFTP](https://img.shields.io/badge/-XFTP-black?logoColor=fff)](https://www.xshell.com/xftp/)
