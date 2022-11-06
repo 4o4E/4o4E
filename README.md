@@ -10,7 +10,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**Boom**](https://github.com/4o4E/Boom/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1150139-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/Boom)
+  [![Stars](https://img.shields.io/github/stars/4o4E/Boom)](https://github.com/4o4E/Boom/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/Boom/total)](https://github.com/4o4E/Boom/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/Boom)](https://github.com/4o4E/Boom/releases)
   <div>
@@ -22,7 +22,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**EClean**](https://github.com/4o4E/EClean/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1305548-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/EClean)
+  [![Stars](https://img.shields.io/github/stars/4o4E/EClean)](https://github.com/4o4E/EClean/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EClean/total)](https://github.com/4o4E/EClean/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EClean)](https://github.com/4o4E/EClean/releases)
   <div>
@@ -34,7 +34,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**EBackupInv**](https://github.com/4o4E/EBackupInv/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1321213-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/EBackupInv)
+  [![Stars](https://img.shields.io/github/stars/4o4E/EBackupInv)](https://github.com/4o4E/EBackupInv/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EBackupInv/total)](https://github.com/4o4E/EBackupInv/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EBackupInv)](https://github.com/4o4E/EBackupInv/releases)
   <div>
@@ -46,7 +46,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**EScript**](https://github.com/4o4E/EScript/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1335472-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/EScript)
+  [![Stars](https://img.shields.io/github/stars/4o4E/EScript)](https://github.com/4o4E/EScript/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EScript/total)](https://github.com/4o4E/EScript/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EScript)](https://github.com/4o4E/EScript/releases)
   <div>
@@ -58,7 +58,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**ViewSlimeChunk**](https://github.com/4o4E/ViewSlimeChunk/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1333162-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/ViewSlimeChunk)
+  [![Stars](https://img.shields.io/github/stars/4o4E/ViewSlimeChunk)](https://github.com/4o4E/ViewSlimeChunk/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/ViewSlimeChunk/total)](https://github.com/4o4E/ViewSlimeChunk/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/ViewSlimeChunk)](https://github.com/4o4E/ViewSlimeChunk/releases)
   <div>
@@ -70,7 +70,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**DanceTree**](https://github.com/4o4E/DanceTree/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1325471-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/DanceTree)
+  [![Stars](https://img.shields.io/github/stars/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DanceTree/total)](https://github.com/4o4E/DanceTree/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/releases)
   <div>
@@ -82,7 +82,7 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**EWarp**](https://github.com/4o4E/EWarp/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1291646-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/EWarp)
+  [![Stars](https://img.shields.io/github/stars/4o4E/EWarp)](https://github.com/4o4E/EWarp/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/EWarp/total)](https://github.com/4o4E/EWarp/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/EWarp)](https://github.com/4o4E/EWarp/releases)
   <div>
@@ -101,14 +101,14 @@ a [minecraft](https://www.minecraft.net/) player(404E)
 - [**DynamicGlowOre**](https://github.com/4o4E/DynamicGlowOre/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1204050-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/DynamicGlowOre)
+  [![Stars](https://img.shields.io/github/stars/4o4E/DynamicGlowOre)](https://github.com/4o4E/DynamicGlowOre/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DynamicGlowOre/total)](https://github.com/4o4E/DynamicGlowOre/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DynamicGlowOre)](https://github.com/4o4E/DynamicGlowOre/releases)
 
 - [**DarkMode**](https://github.com/4o4E/DarkMode/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1365041-1-1.html)
-  ![Stars](https://img.shields.io/github/stars/4o4E/DarkMode)
+  [![Stars](https://img.shields.io/github/stars/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/stargazers)
   [![Downloads](https://img.shields.io/github/downloads/4o4E/DarkMode/total)](https://github.com/4o4E/DarkMode/releases/latest)
   [![Release](https://img.shields.io/github/v/release/4o4E/DarkMode)](https://github.com/4o4E/DarkMode/releases)
 
