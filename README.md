@@ -148,7 +148,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4o4E&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
 
-[//]: # (![wakatime]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=404E&#41;)
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E "WakaTime")
 
 </details>
