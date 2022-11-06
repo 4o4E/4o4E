@@ -118,7 +118,7 @@ QQ: 869951226
 
 </details>
 
-### Minecraft 材质
+## Minecraft 材质
 
 <details>
   <summary>点击查看</summary>
@@ -139,7 +139,7 @@ QQ: 869951226
 
 </details>
 
-### 常用的语言
+## 常用的语言
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
@@ -147,7 +147,7 @@ QQ: 869951226
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 
-### 常用的IDE和工具
+## 常用的IDE和工具
 
 [![IDEA](https://img.shields.io/badge/-IDEA-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
 [![CLion](https://img.shields.io/badge/-CLion-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
@@ -157,13 +157,13 @@ QQ: 869951226
 [![XShell](https://img.shields.io/badge/-XShell-black?logoColor=fff)](https://www.xshell.com/xshell/)
 [![XFTP](https://img.shields.io/badge/-XFTP-black?logoColor=fff)](https://www.xshell.com/xftp/)
 
-### 熟悉的平台
+## 熟悉的平台
 
 [![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
 [![Centos](https://img.shields.io/badge/-Centos-black?logo=Centos&logoColor=fff)](https://centos.org/)
 
-### 统计信息
+## 统计信息
 
 <details>
   <summary>点击查看详细</summary>
