@@ -1,4 +1,5 @@
-<img style="float: right" src="https://mc-heads.net/head/404E" alt="404E">
+<!--suppress HtmlDeprecatedAttribute -->
+<img align="right" src="https://mc-heads.net/head/404E" alt="404E">
 
 ### 4o4E
 
