@@ -9,6 +9,8 @@
 
 <a href=""><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact"></a>
 
+<a href="" style="display: none;"><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/wakatime?username=4o4E&theme=radical"></a>
+
 ## 一些项目
 
 ### Bukkit 插件
