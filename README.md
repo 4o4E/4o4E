@@ -1,18 +1,20 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<img align="right" src="https://mc-heads.net/head/404E" alt="404E">
+# 4o4E
+<a href=""><img align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn"></a>
+## About Me
 
-### 4o4E
+- 学生
+- [Minecraft](https://www.minecraft.net/)玩家(`404E`) [![img](https://mc-heads.net/head/404E/20)](https://mc-heads.net/body/404E)
+- [kotliner](https://kotlinlang.org/) ~~使用kotlin喵, 使用kotlin谢谢喵~~
 
-[Minecraft](https://www.minecraft.net/) 玩家(ID: 404E)
+<a href=""><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact"></a>
 
-时区: UTC+8
-
-QQ: 869951226
+## 一些项目
 
 ### Bukkit 插件
 
 <details>
-  <summary>点击查看</summary>
+  <summary>点一下</summary>
 
 - [**Boom**](https://github.com/4o4E/Boom/)
 
@@ -37,7 +39,7 @@ QQ: 869951226
   <img style="width: 60%;" src="https://bstats.org/signatures/bukkit/EClean.svg" alt="Bstats"/>
   </a>
   </div>
-
+<div style="display: none">
 - [**EBackupInv**](https://github.com/4o4E/EBackupInv/)
 
   [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1321213-1-1.html)
@@ -74,55 +76,34 @@ QQ: 869951226
   </a>
   </div>
 
-[//]: # (- [**DanceTree**]&#40;https://github.com/4o4E/DanceTree/&#41;)
+- [**DanceTree**](https://github.com/4o4E/DanceTree/)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1325471-1-1.html)
+  [![Stars](https://img.shields.io/github/stars/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/stargazers)
+  [![Downloads](https://img.shields.io/github/downloads/4o4E/DanceTree/total)](https://github.com/4o4E/DanceTree/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/4o4E/DanceTree)](https://github.com/4o4E/DanceTree/releases)
+  <div>
+  <a href="https://bstats.org/plugin/bukkit/DanceTree">
+  <img style="width: 60%;" src="https://bstats.org/signatures/bukkit/DanceTree.svg" alt="Bstats"/>
+  </a>
+  </div>
 
-[//]: # ()
-[//]: # (  [![Mcbbs]&#40;https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg&#41;]&#40;https://www.mcbbs.net/thread-1325471-1-1.html&#41;)
-
-[//]: # (  [![Stars]&#40;https://img.shields.io/github/stars/4o4E/DanceTree&#41;]&#40;https://github.com/4o4E/DanceTree/stargazers&#41;)
-
-[//]: # (  [![Downloads]&#40;https://img.shields.io/github/downloads/4o4E/DanceTree/total&#41;]&#40;https://github.com/4o4E/DanceTree/releases/latest&#41;)
-
-[//]: # (  [![Release]&#40;https://img.shields.io/github/v/release/4o4E/DanceTree&#41;]&#40;https://github.com/4o4E/DanceTree/releases&#41;)
-
-[//]: # (  <div>)
-
-[//]: # (  <a href="https://bstats.org/plugin/bukkit/DanceTree">)
-
-[//]: # (  <img style="width: 60%;" src="https://bstats.org/signatures/bukkit/DanceTree.svg" alt="Bstats"/>)
-
-[//]: # (  </a>)
-
-[//]: # (  </div>)
-
-[//]: # ()
-[//]: # (- [**EWarp**]&#40;https://github.com/4o4E/EWarp/&#41;)
-
-[//]: # ()
-[//]: # (  [![Mcbbs]&#40;https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg&#41;]&#40;https://www.mcbbs.net/thread-1291646-1-1.html&#41;)
-
-[//]: # (  [![Stars]&#40;https://img.shields.io/github/stars/4o4E/EWarp&#41;]&#40;https://github.com/4o4E/EWarp/stargazers&#41;)
-
-[//]: # (  [![Downloads]&#40;https://img.shields.io/github/downloads/4o4E/EWarp/total&#41;]&#40;https://github.com/4o4E/EWarp/releases/latest&#41;)
-
-[//]: # (  [![Release]&#40;https://img.shields.io/github/v/release/4o4E/EWarp&#41;]&#40;https://github.com/4o4E/EWarp/releases&#41;)
-
-[//]: # (  <div>)
-
-[//]: # (  <a href="https://bstats.org/plugin/bukkit/EWarp">)
-
-[//]: # (  <img style="width: 60%;" src="https://bstats.org/signatures/bukkit/EWarp.svg" alt="Bstats"/>)
-
-[//]: # (  </a>)
-
-[//]: # (  </div>)
-
+- [**EWarp**](https://github.com/4o4E/EWarp/)
+  [![Mcbbs](https://raw.githubusercontent.com/4o4E/4o4E/main/mcbbs.svg)](https://www.mcbbs.net/thread-1291646-1-1.html)
+  [![Stars](https://img.shields.io/github/stars/4o4E/EWarp)](https://github.com/4o4E/EWarp/stargazers)
+  [![Downloads](https://img.shields.io/github/downloads/4o4E/EWarp/total)](https://github.com/4o4E/EWarp/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/4o4E/EWarp)](https://github.com/4o4E/EWarp/releases)
+  <div>
+  <a href="https://bstats.org/plugin/bukkit/EWarp">
+  <img style="width: 60%;" src="https://bstats.org/signatures/bukkit/EWarp.svg" alt="Bstats"/>
+  </a>
+  </div>
+</div>
 </details>
 
 ### Minecraft 材质
 
 <details>
-  <summary>点击查看</summary>
+  <summary>点一下</summary>
 
 - [**DynamicGlowOre**](https://github.com/4o4E/DynamicGlowOre/)
 
@@ -140,15 +121,15 @@ QQ: 869951226
 
 </details>
 
-### 常用的语言
+## 常用的语言
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
 
-### 常用的IDE和工具
+## 常用的IDE和工具
 
 [![IDEA](https://img.shields.io/badge/-IDEA-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
 [![CLion](https://img.shields.io/badge/-CLion-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
@@ -158,23 +139,14 @@ QQ: 869951226
 [![XShell](https://img.shields.io/badge/-XShell-black?logoColor=fff)](https://www.xshell.com/xshell/)
 [![XFTP](https://img.shields.io/badge/-XFTP-black?logoColor=fff)](https://www.xshell.com/xftp/)
 
-### 熟悉的平台
+## 熟悉的平台
 
 [![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
 [![Centos](https://img.shields.io/badge/-Centos-black?logo=Centos&logoColor=fff)](https://centos.org/)
 
-### 统计信息
+## 统计信息
 
-<details>
-  <summary>点击查看</summary>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)
+[![wakatime](https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E)
 
-![4o4E's GitHub stats](https://github-readme-stats.vercel.app/api?username=4o4E&show_icons=true&count_private=true&theme=tokyonight)
-
-[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=4o4E&layout=compact&theme=tokyonight&#41;)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4o4E&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E "WakaTime")
-
-</details>
