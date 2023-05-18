@@ -1,15 +1,15 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # 4o4E
-<a href=""><img align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn"></a>
+<div><a href=""><img align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats"></a></div>
 ## About Me
 
 - 学生
 - [Minecraft](https://www.minecraft.net/)玩家(`404E`) [![img](https://mc-heads.net/head/404E/20)](https://mc-heads.net/body/404E)
 - [kotliner](https://kotlinlang.org/) ~~使用kotlin喵, 使用kotlin谢谢喵~~
 
-<a href=""><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact"></a>
+<div><a href=""><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact" alt="top lang"></a></div>
 
-<a href="" style="display: none;"><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/wakatime?username=4o4E&theme=radical"></a>
+<div style="display: none;"><a href=""><img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/wakatime?username=4o4E&theme=radical" alt="wakatime"></a></div>
 
 ## 一些项目
 
