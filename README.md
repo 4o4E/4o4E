@@ -2,7 +2,7 @@
 
 # 4o4E
 
-<div><a href=""><img align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats"></a></div>
+<div><a href=""><img style="width: 50%" align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats"></a></div>
 
 `try { life() } catch (e: NoGirlFriendException) {}`
 
