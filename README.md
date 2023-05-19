@@ -2,17 +2,17 @@
 
 # 4o4E
 
-[<img style="width: 50%" align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats">]()
+[<img style="width: 50%" align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats">](#4o4e "github stats")
 
 `try { life() } catch (e: NoGirlFriendException) {}`
 
 ## About Me
 
 - 学生
-- [Minecraft](https://www.minecraft.net/)玩家(`404E`) [![img](https://mc-heads.net/head/404E/20)](https://mc-heads.net/body/404E)
+- [Minecraft](https://www.minecraft.net/)玩家(`404E`) [![img](https://mc-heads.net/head/404E/20)](#about-me)
 - [kotliner](https://kotlinlang.org/) ~~使用kotlin喵, 使用kotlin谢谢喵~~
 
-[<img src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact" alt="top lang">]()
+[![top lang](https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact)](#4o4e "top lang")
 
 ## 一些项目
 
