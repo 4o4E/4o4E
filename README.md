@@ -1,10 +1,16 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-# 4o4E
-
 [<img align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats">](#4o4e "github stats")
 
-`try { life() } catch (e: NoGirlFriendException) {}`
+# 4o4E
+
+```kotlin
+try {
+    life()
+} catch (e: NoGirlFriendException) {
+    e.printStackTrace()
+}
+```
 
 ## About Me
 
