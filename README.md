@@ -99,5 +99,5 @@ try {
 
 ## 统计信息
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=tokyonight&date_format=%5BY.%5Dn.j&locale=zh)
 [![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E)
