@@ -20,7 +20,7 @@ try {
 
 [![top lang](https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact)](#4o4e "top lang")
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=tokyonight&date_format=%5BY.%5Dn.j&locale=zh)
-[![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&range=1m&layout=compact&theme=tokyonight)](https://wakatime.com/@404E)
+[![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&range=last_30_days&layout=compact&theme=tokyonight)](https://wakatime.com/@404E)
 
 ## 语言
 
