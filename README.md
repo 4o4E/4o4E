@@ -15,12 +15,47 @@ try {
 ## About Me
 
 - 学生
-- [Minecraft](https://www.minecraft.net/)玩家(`404E`) [![img](https://mc-heads.net/head/404E/20)](#about-me)
+- 喜欢玩[Minecraft](https://www.minecraft.net/)(id`404E`) [![img](https://mc-heads.net/head/404E/20)]()
 - [kotliner](https://kotlinlang.org/) ~~使用kotlin喵, 使用kotlin谢谢喵~~
 
 [![top lang](https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact)](#4o4e "top lang")
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=tokyonight&date_format=%5BY.%5Dn.j&locale=zh)
+[![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&range=1m&layout=compact&theme=tokyonight)](https://wakatime.com/@404E)
 
-## 一些项目
+## 语言
+
+熟悉
+[![Kotlin](https://img.shields.io/badge/-Kotlin-555?logo=Kotlin&logoColor=7f52ff)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/-Java-555?logo=openjdk&logoColor=fff)](https://www.java.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-555?logo=typescript&logoColor=F7DF1E)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-555?logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/docs/Web/javascript)
+[![Vue](https://img.shields.io/badge/-Vue-555?logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+
+了解
+[![Python](https://img.shields.io/badge/-Python-555?logo=python&logoColor=3776AB)](https://www.python.org/)
+![C](https://img.shields.io/badge/-C-555?logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-555?logo=cplusplus&logoColor=00599C)
+
+计划学习
+![Rust](https://img.shields.io/badge/-Rust-555?logo=rust&logoColor=000)
+
+## 常用的IDE和工具
+
+[![IDEA](https://img.shields.io/badge/-IDEA-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
+[![CLion](https://img.shields.io/badge/-CLion-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
+[![Gradle](https://img.shields.io/badge/-Gradle-black?logo=gradle&logoColor=fff)](https://gradle.org/)
+[![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff)](https://git-scm.com/)
+[![XShell](https://img.shields.io/badge/-XShell-black?logoColor=fff)](https://www.xshell.com/xshell/)
+[![XFTP](https://img.shields.io/badge/-XFTP-black?logoColor=fff)](https://www.xshell.com/xftp/)
+
+## 熟悉的平台
+
+[![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
+[![Centos](https://img.shields.io/badge/-Centos-black?logo=Centos&logoColor=fff)](https://centos.org/)
+
+## Minecraft项目
 
 ### Bukkit 插件
 
@@ -73,31 +108,3 @@ try {
 
 </details>
 
-## 常用的语言
-
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
-
-## 常用的IDE和工具
-
-[![IDEA](https://img.shields.io/badge/-IDEA-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
-[![CLion](https://img.shields.io/badge/-CLion-black?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
-[![Gradle](https://img.shields.io/badge/-Gradle-black?logo=gradle&logoColor=fff)](https://gradle.org/)
-[![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff)](https://git-scm.com/)
-[![XShell](https://img.shields.io/badge/-XShell-black?logoColor=fff)](https://www.xshell.com/xshell/)
-[![XFTP](https://img.shields.io/badge/-XFTP-black?logoColor=fff)](https://www.xshell.com/xftp/)
-
-## 熟悉的平台
-
-[![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
-[![Centos](https://img.shields.io/badge/-Centos-black?logo=Centos&logoColor=fff)](https://centos.org/)
-
-## 统计信息
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=tokyonight&date_format=%5BY.%5Dn.j&locale=zh)
-[![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&layout=compact&theme=tokyonight)](https://wakatime.com/@404E)
