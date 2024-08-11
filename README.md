@@ -14,7 +14,7 @@ try {
 
 ## About Me
 
-- 学生
+- ~~学生~~不是学生
 - [Minecraft](https://www.minecraft.net/)玩家(id`404E`)&开发者
 
   [![head](https://mc-heads.net/head/404E)]()
