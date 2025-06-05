@@ -1,7 +1,9 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
+## 👋 Hi there, I'm 404E
+
 <details>
-  <summary><h3>About Me</h3></summary>
+  <summary><h3>关于我</h3></summary>
 
 ```kotlin
 object Me {
@@ -13,11 +15,32 @@ object Me {
         "python",
     )
 
+    val framework = listOf(
+        "spring",
+        "vue",
+        "react",
+        "kotlin compose multiplatform",
+    )
+
+    val database = listOf(
+        "mysql",
+        "mongodb",
+        "redis",
+        "postgresql",
+    )
+
+    val tool = listOf(
+        "git",
+        "jenkins",
+        "docker",
+        "idea",
+    )
+
     val hobby = listOf(
-      "bilibili",
-      "steam",
-      "羽毛球",
-      "游泳",
+        "bilibili",
+        "steam",
+        "羽毛球",
+        "游泳",
     )
 
     suspend fun next() = when {
@@ -37,10 +60,13 @@ object Me {
 ```
 </details>
 
-喜欢[kotlin](https://kotlinlang.org/)的全栈开发者, 但是工作只能用java,
-熟悉前端技术栈(`js`/`ts`/`vue`/`react`), 但是主要写后端(`spring`全家桶),
+喜欢且熟悉 [kotlin](https://kotlinlang.org/) 的全栈开发者
+
+工作中大量使用`java`/`spring`和`js`/`vue`, 也熟悉前端(`ts`/`react`)和客户端(`jetpack compose`)
+
 别的技术栈诸如`python`会用但用的不多
 
+热爱技术、喜欢尝试新~~又新又好的~~工具和解决难题
 
 <details>
   <summary><h3>最近在写什么</h3></summary>
@@ -80,7 +106,6 @@ object Me {
   </a>
   </div>
 </details>
-
 <details>
   <summary><h4>Minecraft 材质</h4></summary>
 
