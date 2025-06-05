@@ -31,7 +31,7 @@ object Me {
 ```
 </details>
 
-喜欢且熟悉 [kotlin](https://kotlinlang.org/) 的全栈开发者
+喜欢且熟悉 [`kotlin`](https://kotlinlang.org/) 的全栈开发者
 
 工作中大量使用`java`/`spring`和`js`/`vue`, 也熟悉前端(`ts`/`react`)和客户端(`jetpack compose`)
 
