@@ -7,35 +7,6 @@
 
 ```kotlin
 object Me {
-    val lang = listOf(
-        "kotlin",
-        "java",
-        "ts",
-        "js",
-        "python",
-    )
-
-    val framework = listOf(
-        "spring",
-        "vue",
-        "react",
-        "kotlin compose multiplatform",
-    )
-
-    val database = listOf(
-        "mysql",
-        "mongodb",
-        "redis",
-        "postgresql",
-    )
-
-    val tool = listOf(
-        "git",
-        "jenkins",
-        "docker",
-        "idea",
-    )
-
     val hobby = listOf(
         "bilibili",
         "steam",
