@@ -53,10 +53,8 @@ object Me {
 
 ### 以前做的mc项目
 
-#### Bukkit 插件
-
 <details>
-  <summary>点一下</summary>
+  <summary><h4>Bukkit 插件</h4></summary>
 
 - [**Boom**](https://github.com/4o4E/Boom/)
 
@@ -83,10 +81,8 @@ object Me {
   </div>
 </details>
 
-#### Minecraft 材质
-
 <details>
-  <summary>点一下</summary>
+  <summary><h4>Minecraft 材质</h4></summary>
 
 - [**DynamicGlowOre**](https://github.com/4o4E/DynamicGlowOre/)
 
