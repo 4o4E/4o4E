@@ -1,61 +1,54 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-[<img align="right" src="https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api?username=4o4E&theme=radical&locale=cn" alt="github stats">](#4o4e "github stats")
-
-# 4o4E
+<details>
+  <summary><h1>About Me</h1>></summary>
 
 ```kotlin
-try {
-    life()
-} catch (e: NoGirlFriendException) {
-    e.printStackTrace()
+object Me {
+    val techStack = mapOf(
+        "kotlin" to "精通",
+        "java" to "熟悉",
+        "ts" to "熟悉",
+        "js" to "熟悉",
+    )
+    
+    fun plan() {
+        when {
+            today().isWorkday -> ((1..10).map { "工作" } + "摸鱼").random()
+            else -> listOf(
+                "bilibili",
+                "steam",
+                "羽毛球",
+                "游泳",
+            ).random()
+        }
+    }
+
+    fun life() {
+        while (true) {
+            runCaching { life() }.onException { moreHard() }
+        }
+    }
 }
 ```
+</details>
 
-## About Me
+喜欢[kotlin](https://kotlinlang.org/)的全栈开发者, 但是工作只能用java,
+会一些前端技术栈(`js`/`ts`/`vue`/`react`), 但是主要写后端(`spring`全家桶),
+别的技术栈诸如`python`会用但用的不多
 
-- ~~学生~~不是学生
-- [Minecraft](https://www.minecraft.net/)玩家(id`404E`)&开发者
+<details>
+  <summary></summary>
+  使用<code>kotlin</code>喵, 使用<code>kotlin</code>谢谢喵
+  
+  好用爱用多用😋
+</details>
 
-  [![head](https://mc-heads.net/head/404E)]()
-- [osu](https://osu.ppy.sh/users/18672193)玩家
-
-- 熟悉
-[![Kotlin](https://img.shields.io/badge/-Kotlin-111?logo=Kotlin&logoColor=7f52ff)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/-Java-111?logo=openjdk&logoColor=fff)](https://www.java.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-111?logo=typescript&logoColor=F7DF1E)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-111?logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/docs/Web/javascript)
-[![Vue](https://img.shields.io/badge/-Vue-111?logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-
-- 了解
-[![Python](https://img.shields.io/badge/-Python-111?logo=python&logoColor=3776AB)](https://www.python.org/)
-![C](https://img.shields.io/badge/-C-111?logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-111?logo=cplusplus&logoColor=00599C)
-
-- 计划学习
-![Rust](https://img.shields.io/badge/-Rust-111?logo=rust&logoColor=000)
-
-- IDE
-[![IDEA](https://img.shields.io/badge/-IDEA-111?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/idea/)
-[![CLion](https://img.shields.io/badge/-CLion-111?logo=IntelliJ%20IDEA&logoColor=fff)](https://www.jetbrains.com/clion/)
-
-- 工具
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
-[![Gradle](https://img.shields.io/badge/-Gradle-111?logo=gradle&logoColor=fff)](https://gradle.org/)
-[![Git](https://img.shields.io/badge/-Git-111?logo=git&logoColor=fff)](https://git-scm.com/)
-
-- 熟悉的平台
-[![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
-[![Centos](https://img.shields.io/badge/-Centos-black?logo=Centos&logoColor=fff)](https://centos.org/)
-
-[![top lang](https://github-readme-stats-8oyz819z0-4o4e.vercel.app/api/top-langs/?username=4o4E&theme=radical&locale=cn&layout=compact)](#4o4e "top lang")
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4o4E&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)
+## 最近在写什么
 
 [![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&range=last_30_days&layout=compact&theme=radical)](https://wakatime.com/@404E)
 
-## Minecraft项目
+## 以前做的mc项目
 
 ### Bukkit 插件
 
