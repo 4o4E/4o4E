@@ -1,32 +1,36 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <details>
-  <summary><h1>About Me</h1>></summary>
+  <summary><h3>About Me</h3></summary>
 
 ```kotlin
 object Me {
-    val techStack = mapOf(
-        "kotlin" to "精通",
-        "java" to "熟悉",
-        "ts" to "熟悉",
-        "js" to "熟悉",
+    val lang = listOf(
+        "kotlin",
+        "java",
+        "ts",
+        "js",
+        "python",
     )
-    
-    fun plan() {
-        when {
-            today().isWorkday -> ((1..10).map { "工作" } + "摸鱼").random()
-            else -> listOf(
-                "bilibili",
-                "steam",
-                "羽毛球",
-                "游泳",
-            ).random()
-        }
+
+    val hobby = listOf(
+      "bilibili",
+      "steam",
+      "羽毛球",
+      "游泳",
+    )
+
+    suspend fun next() = when {
+        now().isWorkTime -> ((1..9).map { "工作" } + "摸鱼").random()
+        now().isTimeToSleep -> "sleep"
+        else -> hobby.random()
     }
 
-    fun life() {
+    suspend fun life() {
         while (true) {
-            runCaching { life() }.onException { moreHard() }
+            withContext(Dispatchers.Main) {
+                invoke(next())
+            }
         }
     }
 }
@@ -34,23 +38,22 @@ object Me {
 </details>
 
 喜欢[kotlin](https://kotlinlang.org/)的全栈开发者, 但是工作只能用java,
-会一些前端技术栈(`js`/`ts`/`vue`/`react`), 但是主要写后端(`spring`全家桶),
+熟悉前端技术栈(`js`/`ts`/`vue`/`react`), 但是主要写后端(`spring`全家桶),
 别的技术栈诸如`python`会用但用的不多
 
+
 <details>
-  <summary></summary>
+  <summary><h3>最近在写什么</h3></summary>
   使用<code>kotlin</code>喵, 使用<code>kotlin</code>谢谢喵
-  
+
   好用爱用多用😋
 </details>
 
-## 最近在写什么
-
 [![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&range=last_30_days&layout=compact&theme=radical)](https://wakatime.com/@404E)
 
-## 以前做的mc项目
+### 以前做的mc项目
 
-### Bukkit 插件
+#### Bukkit 插件
 
 <details>
   <summary>点一下</summary>
@@ -80,7 +83,7 @@ object Me {
   </div>
 </details>
 
-### Minecraft 材质
+#### Minecraft 材质
 
 <details>
   <summary>点一下</summary>
