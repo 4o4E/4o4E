@@ -39,6 +39,8 @@ object Me {
 
 热爱技术、喜欢尝试新~~又新又好的~~工具和解决难题
 
+vibe coding含量100%
+
 <details>
   <summary><h3>最近在写什么</h3></summary>
   使用<code>kotlin</code>喵, 使用<code>kotlin</code>谢谢喵
