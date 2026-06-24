@@ -50,7 +50,7 @@ vibe coding含量100%
 
 [![wakatime](https://github-readme-stats-4o4e.vercel.app/api/wakatime?username=404E&range=last_30_days&layout=compact&theme=radical)](https://wakatime.com/@404E)
 
-### 以前做的mc项目
+### Minecraft项目
 
 <details>
   <summary><h4>Bukkit 插件</h4></summary>
